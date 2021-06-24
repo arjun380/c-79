@@ -1,0 +1,11 @@
+button, input
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sort_btn
+{
+    display: none;
+    
+}
